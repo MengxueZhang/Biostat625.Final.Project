@@ -4,7 +4,7 @@ This is the final project by Siqiao Chen, Zhengrui Huang, Mengxue Zhang and Ebo 
 
 In this project, we first collected our data from www.kaggle.com, followed with a series of data analysis algorithms including data cleaning, exploratory analysis, logistic regression and model diagnostics, 
 to find out the predicted fators for CHD in both the full data, and the gender stratified data. In general, 6 out of 15 variables were found significantly correlated with the outcome variable of developing CHD.
-For the gender statified analysis, different variables were found to be responsible for the onset of CHD. An R Shiny App was built to visualize our prediction results.
+For the gender statified analysis, different variables were found to be responsible for the onset of CHD. Finally, the confusion matrix was used to evaluate hot the model's predictions align with the actual outcomes, distinguishing between positive and negative cases. An R Shiny App was built to visualize our prediction results.
 
 This repository contains the following materials:
 
