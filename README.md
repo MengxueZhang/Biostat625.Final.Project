@@ -12,12 +12,12 @@ This repository contains the following materials:
 
 - `README.md`
 - `Rshiny/`:
- - `app.R`: Code for Shiny app
+  - `app.R`: Code for Shiny app
 - `codes/`:
- - `CHD risk factors general.R`: Code for analyzing general data
- - `CHD risk factors male vs female.R`: Code for analyzing gender-stratified data
- - `Missingvalues and EDA tables.R`: Code for descriptive analysis
+  - `CHD risk factors general.R`: Code for analyzing general data
+  - `CHD risk factors male vs female.R`: Code for analyzing gender-stratified data
+  - `Missingvalues and EDA tables.R`: Code for descriptive analysis
 - `data/`:
- - `framingham.csv`: Dataset we used
+  - `framingham.csv`: Dataset we used
 - `figure/`: Contains the figures in the report
 - `report/`: R Markdown files and knitted pdf files of final report
